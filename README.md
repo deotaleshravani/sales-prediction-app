@@ -17,27 +17,6 @@ This project predicts **sales** based on **advertising spend on TV, Radio, and N
 - Streamlit web app for predicting sales in real time  
 
 
----
-
-# **Step 6: Add How to Use / Run**
-
-```markdown
-## How to Run
-
-### 1. Jupyter Notebook
-- Open `Sales Prediction.ipynb` to explore EDA and model training.
-
-### 2. Streamlit App
-- Run the app:
-```bash
-streamlit run app.py
-
-
----
-
-# **Step 7: Add Results / Evaluation**
-
-```markdown
 ## Model Evaluation
 
 Random Forest Model Performance (TV + Radio):
@@ -48,6 +27,8 @@ Random Forest Model Performance (TV + Radio):
 - R2 Score: 0.959  
 
 Observation: Dropping Newspaper improved model accuracy.
+
+
 ## Author
 
 Shravani Deotale
